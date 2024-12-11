@@ -1,6 +1,15 @@
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/08437043-a346-4e71-8521-93afac8d7529)
 
-# Hey, it's-a me, EDM115 👋
+### **CyberTrist**, Explorateur du Cyberspace 👾  
+
+💻 *Naviguer dans les méandres du numérique, armé d’un pare-feu d’acier et de lignes de code affûtées.*  
+🛡️ *Neutraliser les failles, déjouer les attaques sournoises et esquiver les malwares comme un pro.*  
+🎢 *Entre deux exploits, quelques boucles sur des montagnes russes ou une séance de muscu pour rester en forme.*  
+
+🌐 *Parce qu’ici, c’est tout ou rien : sécurisé 🔒 ou **ouch** 💀.*  
+
+🙌 *Connexion établie. Bienvenue dans mon espace (et pas de phishing, merci). 🐟❌*
+
 
 <details>
   <summary><h2>Languages and Tools</h2></summary>
@@ -28,19 +37,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
 
-### Backend as a Service (BaaS)
-<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" height="50"/></a>
-
 ### Framework
-<a href="https://aiohttp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/aiohttp-plain.svg" alt="aioHTTP" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Boostrap" width="60" height="50"/></a>
-<a href="https://boxicons.com/" target="_blank" rel="noreferrer"><img src="https://github.com/EDM115/EDM115/raw/main/boxicons_logo.svg" alt="BoxIcons" width="50" height="50"/></a>
-<a href="https://motor.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/56866ac4e9d16d6b47a8a.png" alt="Motor" width="50" height="50"/></a>
-<a href="https://pillow.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/0c7e57eb1fe313fb5c166.png" alt="Pillow" width="50" height="50"/></a>
-<a href="https://pyrogram.org/" target="_blank" rel="noreferrer"><img src="https://pyrogram.org/img/pyrogram-logo.png" alt="PyroGram" width="36" height="51"/></a>
-<a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/EDM115/EDM115/raw/main/swiper.svg" alt="Swiper" width="50" height="50"/></a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="50" height="50"/></a>
-<a href="https://mattboldt.com/demos/typed-js/" target="_blank" rel="noreferrer"><img src="https://github.com/mattboldt/typed.js/raw/master/logo-cropped.png" alt="typed.js" width="180" height="50"/></a>
+
 
 ### Software
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="50" height="50"/></a>
@@ -62,7 +61,7 @@
 
 ## Some stats 🥰
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/625240117560475658?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=No%20RPC%20activity%20detected&showDisplayName=true)](https://discord.com/users/625240117560475658)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/625240117560475658?theme=dark&bg=282a36&borderRadius=30&animated=true&idleMessage=No%20RPC%20activity%20detected&showDisplayName=true)](https://discord.com/users/634433284285268006)  
 ![EDM115's GitHub stats | Reload the page if you see this :)](https://stats.edm115.dev/api?username=EDM115&count_private=true&show_icons=true&cache_seconds=1800&bg_color=30,833ab4,fd1d1d,fcb045&include_all_commits=True&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![Most Used Languages | Reload the page if you see this :)](https://stats.edm115.dev/api/top-langs/?username=EDM115&langs_count=10&layout=compact&theme=merko&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&icon_color=fff&border_color=000&text_color=70ffff)  
 ![EDM115's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EDM115&theme=dracula&line=50fa7b&point=ff79c6&area_color=f1fa8c&bg_color=282a36&color=8be9fd&title_color=8be9fd&area=true&hide_border=true&radius=8)  
